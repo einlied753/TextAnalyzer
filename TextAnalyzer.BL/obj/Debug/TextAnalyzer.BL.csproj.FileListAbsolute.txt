@@ -1,0 +1,17 @@
+D:\Projects\TextAnalyzer\TextAnalyzer.BL\bin\Debug\TextAnalyzer.BL.dll
+D:\Projects\TextAnalyzer\TextAnalyzer.BL\bin\Debug\TextAnalyzer.BL.pdb
+D:\Projects\TextAnalyzer\TextAnalyzer.BL\obj\Debug\TextAnalyzer.BL.csproj.CoreCompileInputs.cache
+D:\Projects\TextAnalyzer\TextAnalyzer.BL\obj\Debug\TextAnalyzer.BL.dll
+D:\Projects\TextAnalyzer\TextAnalyzer.BL\obj\Debug\TextAnalyzer.BL.pdb
+D:\Projects\TextAnalyzer\TextAnalyzer.BL\obj\Debug\TextAnalyzer.BL.csprojResolveAssemblyReference.cache
+F:\_programming\_Projects\TextAnalyzer_v2\TextAnalyzer\TextAnalyzer.BL\bin\Debug\TextAnalyzer.BL.dll
+F:\_programming\_Projects\TextAnalyzer_v2\TextAnalyzer\TextAnalyzer.BL\bin\Debug\TextAnalyzer.BL.pdb
+F:\_programming\_Projects\TextAnalyzer_v2\TextAnalyzer\TextAnalyzer.BL\obj\Debug\TextAnalyzer.BL.csproj.CoreCompileInputs.cache
+F:\_programming\_Projects\TextAnalyzer_v2\TextAnalyzer\TextAnalyzer.BL\obj\Debug\TextAnalyzer.BL.dll
+F:\_programming\_Projects\TextAnalyzer_v2\TextAnalyzer\TextAnalyzer.BL\obj\Debug\TextAnalyzer.BL.pdb
+C:\Users\Ein\Desktop\TextAnalyzer\TextAnalyzer\TextAnalyzer.BL\bin\Debug\TextAnalyzer.BL.dll
+C:\Users\Ein\Desktop\TextAnalyzer\TextAnalyzer\TextAnalyzer.BL\bin\Debug\TextAnalyzer.BL.pdb
+C:\Users\Ein\Desktop\TextAnalyzer\TextAnalyzer\TextAnalyzer.BL\obj\Debug\TextAnalyzer.BL.csproj.CoreCompileInputs.cache
+C:\Users\Ein\Desktop\TextAnalyzer\TextAnalyzer\TextAnalyzer.BL\obj\Debug\TextAnalyzer.BL.dll
+C:\Users\Ein\Desktop\TextAnalyzer\TextAnalyzer\TextAnalyzer.BL\obj\Debug\TextAnalyzer.BL.pdb
+C:\Users\Ein\Desktop\TextAnalyzer\TextAnalyzer\TextAnalyzer.BL\obj\Debug\TextAnalyzer.BL.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalyzer", "TextAnalyzer\TextAnalyzer.csproj", "{5A04C455-90D1-4BFA-82CF-52516BC9D09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalyzer.BL", "TextAnalyzer.BL\TextAnalyzer.BL.csproj", "{EBAC1EA7-5A8F-43E5-A37F-EABEE5747BD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A04C455-90D1-4BFA-82CF-52516BC9D09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A04C455-90D1-4BFA-82CF-52516BC9D09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A04C455-90D1-4BFA-82CF-52516BC9D09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A04C455-90D1-4BFA-82CF-52516BC9D09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBAC1EA7-5A8F-43E5-A37F-EABEE5747BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAC1EA7-5A8F-43E5-A37F-EABEE5747BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAC1EA7-5A8F-43E5-A37F-EABEE5747BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAC1EA7-5A8F-43E5-A37F-EABEE5747BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A13E25E-0F05-480A-897B-AD3CB46C8DC1}
+	EndGlobalSection
+EndGlobal
